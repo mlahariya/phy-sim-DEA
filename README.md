@@ -19,5 +19,6 @@ Soft actuators offer a safe, adaptable approach to tasks like gentle grasping an
 
 ## Acknowledgment
 This research was performed by M. Lahariya from the [AI for Energy Research Group](https://ugentai4e.github.io/) at [IDLAB, UGent-imec](https://www.ugent.be/ea/idlab/en) in colloboration with [Robust Autonomy and Decisions Group](https://rad.inf.ed.ac.uk/), University of Edinburgh.
+
 ## Contact
 If you have any questions, please contact me at manu.lahariya@ugent.be
